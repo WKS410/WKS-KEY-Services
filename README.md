@@ -15,9 +15,11 @@ This is the original version of the script that a few others are based on.
 usage: main.pyc {service} [-h]
 
 ### Example
+> **ViX** 
+
+
 > **https://vix.com/**
 
-> **ViX** 
   - python main.pyc vix -mpd mpd_url -eqp eqp_license
   
 ![image](https://media.discordapp.net/attachments/707689574226460683/1088079900310782032/image.png)
