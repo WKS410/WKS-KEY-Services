@@ -47,12 +47,15 @@ You can find the token in the license
 > **https://www.disneyplus.com/**
 > **https://www.starplus.com/**
 
-  - python main.pyc jffp -mpd mpd_url -t token
+  - python main.pyc dsnp -pssh pssh_m3u8 -t token
   
-![image](https://media.discordapp.net/attachments/916452106523775036/1088114321608949770/image.png)
+![image](https://media.discordapp.net/attachments/916452106523775036/1088120876853121094/image.png)
 
 You can find the token in the license
 
-![image](https://media.discordapp.net/attachments/826590534151700550/1088115982553337867/image.png)
+![image](https://media.discordapp.net/attachments/826590534151700550/1088135318370271343/image.png)
 
+You can find the pssh in the m3u8
+
+![image](https://media.discordapp.net/attachments/826590534151700550/1088135613573771305/image.png)
 
