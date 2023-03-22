@@ -27,3 +27,18 @@ usage: main.pyc {service} [-h]
 You can find the eqp in the license
 
 ![image](https://media.discordapp.net/attachments/826590534151700550/1088085289181913118/image.png)
+
+
+> **JFFP** 
+
+
+> **https://watch.jff.jpf.go.jp/**
+
+  - python main.pyc jffp -mpd mpd_url -t token
+  
+![image](https://media.discordapp.net/attachments/916452106523775036/1088114321608949770/image.png)
+
+You can find the token in the license
+
+![image](https://media.discordapp.net/attachments/826590534151700550/1088115982553337867/image.png)
+
