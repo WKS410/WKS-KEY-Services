@@ -4,6 +4,14 @@
 # WKS-KEY-Services 
 An addon for WKS-KEY
 
+## Services 
+
+- **ViX**
+- **DisneyPlus**
+- **StarPlus**
+- **JFFP**
+- **ParamountPlus**
+
 > **Warning**
 >
 > I don't plan to update this at all, I'm only uploading this for educational, and archival purposes.
