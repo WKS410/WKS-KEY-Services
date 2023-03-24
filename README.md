@@ -59,3 +59,17 @@ You can find the pssh in the m3u8
 
 ![image](https://media.discordapp.net/attachments/826590534151700550/1088135613573771305/image.png)
 
+> **PMTP** 
+
+> **https://www.paramountplus.com/**
+
+  - python main.pyc paramountplus -pssh pssh_mpd -t token -id id
+  
+![image](https://media.discordapp.net/attachments/826590534151700550/1088872570314563665/image.png)
+
+You can find the token in the license
+
+![image](https://media.discordapp.net/attachments/826590534151700550/1088873557385293834/image.png)
+
+You can find the id in the url "paramountplus.com/xxxx/xxxx/{id}/"
+
